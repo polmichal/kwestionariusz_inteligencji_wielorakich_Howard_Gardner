@@ -8,3 +8,6 @@ Zastosowane:<br />
 - python
 - matplotlib.pyplot
 - tkinter
+
+![Screenshot](main_window_jpg.jpg)
+![Screenshot](graf_wynik_jpg.jpg)     
