@@ -8,4 +8,3 @@ Zastosowane:<br />
 - python
 - matplotlib.pyplot
 - tkinter
-
